@@ -1,2 +1,2 @@
 # klodi1
-Przykładowy projekt
+Cześć, robię właśnie przykładowy projekt
